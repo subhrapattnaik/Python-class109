@@ -1,0 +1,19 @@
+Normal distributions are the
+most interesting pattern in data
+science. We'll learn to use the
+learnings you just had about normal
+distributions in lots of interesting data
+analysis and machine learning
+algorithm.
+
+
+
+properties of Normal Distribution(Data set which follows normal distribution)
+1.The Mean,Median,mode are all equal in a normal distribution and they are at thr peak
+
+2.y axis is the probablity
+3.symetrical nature of normal distribution,mean dividesinto 2 equal parts
+3.
+68% of data lies within 1 standard deviation(between mean-sd to mean+sd)
+95% of data lies within 2 standard deviations(between mean-2sd to mean+2sd)
+99% of data lies within 3 standard deviations(between mean-3sd to mean+3sd)
